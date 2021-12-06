@@ -1,0 +1,62 @@
+  body {
+    background-color: #ff3333;
+  }
+  
+  /*heading1*/
+  h1 {
+    color: white;
+    font-family: arial;
+    text-align: center;
+  }
+  
+  /*paragraph1*/
+  p {
+    font-family: arial;
+    font-size: 16px;
+  }
+
+
+  /*links*/
+  a.navigation {
+    color: black;
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 50px;
+    word-wrap: normal;
+    display: inline-block;
+  }
+
+  /*list*/
+  li {
+    color: white;
+    text-align: center;
+
+  }
+  
+  /*text box*/
+  div {
+    width: 100%;
+    /*border-radius: 5px;*/
+    padding: 10px;
+    border: 5px solid white;
+    margin: 20;
+    background-color: white;
+    text-align: center; 
+  }
+
+  /*logo*/
+  img {
+    width: 10%;
+    text-align: left;
+  }
+
+ 
+  /*Application form*/
+  form {
+    font-family: arial;
+    font-size: 16px;
+    size: 25%;
+  }

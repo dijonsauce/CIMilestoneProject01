@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+ 
+ <html>
+    
+    <head>
+    <img src="assets/images/momoko-logos.jpeg">   <h1>Hello World</h1>
+    </head>
+
+     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+    <body>
+      <!---navigation bar fix--->
+      <div>
+           <a.navigation href="Menu.html">Menu</a.navigation>
+           <a.navigation href="Merchandise.html">Merchandise</a.navigation>
+           <a.navigation href="Careers.html">Careers</a.navigation>
+           <a.navigation href="Contact.html">Contact</a.navigation>
+      </div>
+<br>
+
+        <!---move form to career page-->
+        <form>
+          <div class="container">
+            <h3>Application Form</h3>
+            <br>
+            <label> Full Name </label>
+            <br>
+              <input type="text" name="fname" placeholder="Full Name" id="t1">
+              <p id="msg1" style="color: red;"></p>
+            <br>
+
+            <label>Email Address</label>
+            <br>
+              <input type="text" name="email" placeholder="Email" id="t2"/>
+              <p id="msg2" style="color: red;"></p>
+            <br>
+
+            <label>Mobile Number</label>
+            <br>
+              <input type="text" name="mobile" placeholder="Mobile Number" id="t3"/> 
+              <p id="msg3" style="color: red;"></p>
+            <br>
+
+            <label>Gender</label>
+            <br>
+            <p>
+              Male<input type="radio" name="gender" id="gender_Male" value="Male"/>
+              Female<input type="radio" name="gender" id="gender_Female" value="Female"/>
+              </p3>
+              <p id="msg4" style="color: red;"></p>
+            <br>
+
+            <label>Country</label>
+            <br>
+              <input list="country" id="t5">
+              <datalist id="country">
+                <option value="United States"></option>
+                <option value="United Kingdom"></option>
+                <option value="Germany"></option>
+                <option value="Spain"></option>
+                <option value="France"></option>
+                <option value="Mexico"></option>
+              </datalist>
+            <p id="msg5" style="color: red;"></p>
+            <br>
+
+            <label>Interest (Optional)</label>
+            <br>
+            <p>
+            Retail<input 
+             type="radio" 
+            name="g1"/> 
+            <br>
+            Logistics<input 
+             type="radio" 
+             name="g1"/> 
+            <br>
+            Sales & Marketing<input 
+             type="radio" 
+              name="g1"/> 
+            <br>
+            Research & Development<input 
+             type="radio" 
+             name="g1"/>
+            </p>
+            <br>
+            
+            <label 
+               for="Resume">
+               Please upload your resume.</label>
+
+             <input type="file"
+               id="Resume" name="Resume"
+                accept="text/pdf">
+
+             <button 
+               type="button" 
+              class="submitbtn" 
+              value="Check" 
+               onclick="check()"> 
+               Submit
+            </button>
+          </div>
+        </form>
+
+        <div>
+          <p>This project was written in Cloud9!!!!</p>
+        </div>
+
+        <footer class="footer">
+          <div>
+              <div class="social-media-links">
+                  <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+                   <i class="fab fa-facebook-square"></i>
+                     <span class="sr-only">This link takes you to the official Facebook page.</span>
+        </footer>
+        
+    </body>
+ </html>

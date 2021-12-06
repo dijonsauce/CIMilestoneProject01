@@ -1,0 +1,20 @@
+README
+
+MOMOKO
+Fast food restaurant based of KFC, Jollibee and Panda Express
+
+Navibar: Menus, Location, Careers, Contact Us, Merchandise/Store, Comic/Fan Zone
+
+Menus - Deals, Items,
+Pictures
+
+
+Location - Google Map Api
+
+Careers - 
+
+Linked feature
+>Instagram
+>FB
+>Twitter
+>YT
