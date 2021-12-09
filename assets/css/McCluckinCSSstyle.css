@@ -122,3 +122,10 @@ body {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.footer-links {
+  font-family: Verdana;
+  font-size: 10px;
+  text-align: left;
+  color: black;
+}
