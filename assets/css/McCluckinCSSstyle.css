@@ -18,11 +18,8 @@ body {
   }
 
   /*Link*/
-  a{
-    text-decoration: none;
-    color: white;
-    word-wrap: normal;
-    padding: 50px;
+  a {
+    all: unset;
   }
 
   a:hover {
@@ -31,12 +28,16 @@ body {
     text-decoration: none;
   }
 
+  i {
+    height: 50px;
+    width: 50px;
+  }
 /*SLIDESHOW*/
 * {box-sizing:border-box}
 
 /*Slideshow container*/
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 1200px;
   position: relative;
   margin: auto;
 }
