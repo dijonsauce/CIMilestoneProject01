@@ -1,13 +1,13 @@
 README
 
-MOMOKO
+McClUCKIN
 Fast food restaurant based of KFC, Jollibee and Panda Express
 
 nah its now a fast food join, cluckin bell or 
 
 Navibar: Menus, Location, Careers, Contact Us, Merchandise/Store, Comic/Fan Zone
 
-Menus - Deals, Items,
+Menus - Deals, Items, limited eidition drink SPUNK: Code white (mtn dew)
 Pictures
 
 
@@ -21,4 +21,5 @@ Linked feature
 >Twitter
 >YT
 
-
+Android Phone outline png. pngitem
+https://www.pngitem.com/middle/wRJhww_android-phone-png-page-ipad-vector-outline-transparent/
