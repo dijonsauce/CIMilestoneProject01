@@ -5,7 +5,8 @@
 Welcome to McCluckin', America's fastest and finest dining experience!
 <!---Yummy yummy there's cock in my tummy!--->
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is the main marketing website for McCLUCKIN'. 
+It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential customers & partners.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
@@ -64,10 +65,6 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
@@ -76,10 +73,6 @@ This is the main marketing website for Code Institute. It is designed to be resp
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 1. [MediBang](https://medibangpaint.com/en/)
 |   - MediBang was used to create the logo, resizing images and editing photos for the website.
 
@@ -208,9 +201,11 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
--    W3 schools
+-    W3 Schools
 https://www.w3schools.com/howto/howto_js_slideshow.asp
 
+-    Interneting is Hard
+https://www.internetingishard.com/html-and-css/advanced-positioning/
 
 ### Code
 
@@ -237,7 +232,7 @@ https://unsplash.com/photos/YPLcEMcEqaA
 -    McDonald's / LADBible - Burger Meal Set
 https://www.ladbible.com/news/latest-mcdonalds-australia-is-bringing-back-the-parmi-and-mcspicy-burgers-20201013
 
--    Popeyes - Chicken BUrger Meal with Drink
+-    Popeyes - Chicken Burger Meal with Drink
 https://www.popeyes.com/
 
 ### Acknowledgements

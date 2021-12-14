@@ -1,0 +1,155 @@
+body {
+    background-color: white;
+  }
+
+  .header-container {
+    /*Block*/
+    width: 100%;
+    border: #d11919;
+    background-color: #d11919;
+    /*Text*/
+    color: white;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    word-wrap: normal;
+    /*Fixed (as in still) navigation bar*/
+    top: 0;
+    z-index: 100;
+    position: fixed;
+  }
+
+  h1 {
+   font-family: Verdana;
+   font-size: 35px;
+   color: black;
+   /*background-color: #d11919;*/
+   text-decoration: underline;
+   text-decoration-color: #d11919;
+   text-align: center;
+  }
+
+  p {
+    font-family: Verdana;
+    font-size: 16px;
+    color: black;
+  }
+
+  /*Link*/
+  a {
+    all: unset;
+  }
+
+  a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+/*SLIDESHOW*/
+* {box-sizing:border-box}
+
+/*Slideshow container*/
+.slideshow-container {
+  max-width: 1200px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide image by default*/
+.Slides {
+  display: none;
+}
+
+/*Next & Previous buttons*/
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.9s ease;
+  border-radius: 0 6px 6px 0;
+  user-select: none;
+}
+
+/*Position the "Next button" to the right*/
+.next  {
+  right: 0;
+  border-radius: 6px 0 0 6px;
+}
+
+/* On hover, add a black background color with a little bit see-through*/
+.prev:hover, .next:hover {
+   background-color: black;
+}
+
+/*Caption text*/
+.text {
+  color: white;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/*Number text (1/3, 2/3. etc)*/
+.numbertext {
+  color: white;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dot - position indicator*/
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.9s ease;
+}
+
+/* Fading animation*/
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration:1.5s;
+  animation-name: fade;
+  animation-duration:1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+.footer-links {
+  font-family: Verdana;
+  font-size: 10px;
+  text-align: left;
+  color: black;
+}
+
+.footer-text {
+  font-family: Verdana;
+  font-size: 12px;
+  color: black;
+  text-align: center;
+}
