@@ -2,7 +2,7 @@
 
 [View the live project here.](https://codeinstitute.net)
 
-Welcome to McCluckin', America's fastest and finest dining experience!
+Welcome to McCLUCKIN', America's fastest and finest dining experience!
 <!---Yummy yummy there's cock in my tummy!--->
 
 This is the main marketing website for McCLUCKIN'. 
