@@ -1,4 +1,4 @@
-
+//External code: This is from https://www.w3schools.com/howto/howto_js_slideshow.asp//
 //Slideshow Javascript//
 var slideIndex = 1;
 showSlides(slideIndex);

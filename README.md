@@ -8,6 +8,8 @@ Welcome to McCLUCKIN', America's fastest and finest dining experience!
 This is the main marketing website for McCLUCKIN'. 
 It is designed to be responsive and accessible, making it easy to navigate for potential customers & partners.
 
+Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chick-Fil-A and the fictional Clucking Bell in Grand Theft Auto: San Andreas.
+
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
 ## User Experience (UX)
@@ -132,12 +134,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. At the bottom of every page there is a footer which contains the social media links.
 
 
-### Further Testing
+### Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+- Images not showing: from incorrecting pathway setting just using the name rather than assets/image/"name.jpg".
 
 ### Known Bugs
 
@@ -194,19 +197,14 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
--    W3 Schools
-https://www.w3schools.com/howto/howto_js_slideshow.asp
-
--    Interneting is Hard
-https://www.internetingishard.com/html-and-css/advanced-positioning/
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
+-    W3 Schools [here] (https://www.w3schools.com/howto/howto_js_slideshow.asp):
+Code modified to create a 3 image slideshow on Index page.
 
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+-    Interneting is Hard [here] (https://www.internetingishard.com/html-and-css/advanced-positioning/): 
+Code modified to create a stationary navigation bar without further changes to the visuals.
 
 ### Content
 
@@ -214,7 +212,19 @@ https://www.internetingishard.com/html-and-css/advanced-positioning/
 
 -   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
--   README templated from Code Institute [here]https://github.com/Code-Institute-Solutions/SampleREADME
+-   README templated from Code Institute [here] (https://github.com/Code-Institute-Solutions/SampleREADME)
+
+
+### Inspiration
+
+-    KFC [here] (https://www.kfc.co.uk/): 
+Index page takes inspiration from the Homepage such as the title and the mobile app link.
+
+-    Chick-Fil-A [here] (https://www.chick-fil-a.com/): 
+For the contact page content.
+
+-     Cluckin Bell [here] (https://gta.fandom.com/wiki/CluckinBellHappyChicken.com#Legal_Disclaimer):
+The website no longer exists and the URL will redirect to the Rockstar Games' official websites but you can see that much of the text is heavily inspired  by the sarcastic ficitional brand.
 
 ### Media
 
@@ -233,5 +243,3 @@ https://www.popeyes.com/
 ### Acknowledgements
 
 -    Mentors at Code Institute for continuous helpful feedback.
-
--    Tutor support at Devon University College for their support.

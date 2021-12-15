@@ -31,7 +31,7 @@ body {
    text-align: center;
   }
 
-  h2 {
+  .h2 {
     font-family: Verdana;
     font-size: 25px;
     color: black;
@@ -47,6 +47,16 @@ body {
   a {
     all: unset;
   }
+
+  .index-text{
+    font-family: Verdana;
+    font-size: 18px;
+    color: black;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: normal;
+    
+    }
 
   a:hover {
     color: black;
