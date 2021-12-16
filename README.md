@@ -240,6 +240,22 @@ https://www.ladbible.com/news/latest-mcdonalds-australia-is-bringing-back-the-pa
 -    Popeyes - Chicken Burger Meal with Drink
 https://www.popeyes.com/
 
+-    KFC / GoodToKnow - Cooking Chicken Kitchen
+https://www.goodto.com/food/food-news/kfc-open-kitchen-484083
+
+-    KFC - Stack Burger Set
+https://www.frugalfeeds.com.au/wp-content/uploads/2019/03/SmartSelect_20190319-133137_KFC.jpg
+
+-    KFC - Double Down Set
+https:www.kfc.com.au
+
+-    KFC - Hungover Box
+https://www.thebelltowertimes.com/hungover-broome-man-pays-150-for-a-zinger-box-at-auction/
+
+-    KFC - Family Box
+https://www.ka-99.top/products.aspx?cname=kfc+family+box&cid=6
+
+
 ### Acknowledgements
 
 -    Mentors at Code Institute for continuous helpful feedback.
