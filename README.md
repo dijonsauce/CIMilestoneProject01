@@ -77,6 +77,10 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
     - GitHub is used to store the projects code after being pushed from Git.
 1. [MediBang](https://medibangpaint.com/en/)
     - MediBang was used to create the logo, resizing images and editing photos for the website.
+1. [FontGenerator](https://www.font-generator.com/fonts/KomikaTitle2/- Menu Font)
+    - This website was used to create menu titles for the items available at McCLUCKIN', the chosen font is called Komika Title by Vigilante Typeface Corporation.
+
+
 
 ## Testing
 
