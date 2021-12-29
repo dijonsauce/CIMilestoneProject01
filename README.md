@@ -247,17 +247,22 @@ https://www.popeyes.com/
 -    KFC / GoodToKnow - Cooking Chicken Kitchen
 https://www.goodto.com/food/food-news/kfc-open-kitchen-484083
 
--    KFC - Stack Burger Set
+-    KFC Australia - Stack Burger Set
 https://www.frugalfeeds.com.au/wp-content/uploads/2019/03/SmartSelect_20190319-133137_KFC.jpg
 
--    KFC - Double Down Set
+-    KFC Australia- Double Down Set
 https:www.kfc.com.au
 
--    KFC - Hungover Box
+-    KFC Australia - Hungover Box
 https://www.thebelltowertimes.com/hungover-broome-man-pays-150-for-a-zinger-box-at-auction/
 
 -    KFC - Family Box
 https://www.ka-99.top/products.aspx?cname=kfc+family+box&cid=6
+
+-    KFC Singapore - 50% off 2pcs Chicken Box with any Box Meal (Weekdays only)
+https://www.youtube.com/watch?v=WZ48q6RQAkA
+
+
 
 
 ### Acknowledgements
