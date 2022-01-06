@@ -3,7 +3,6 @@
 [View the live project here.](https://codeinstitute.net)<!---change-->
 
 Welcome to McCLUCKIN', America's fastest and finest dining experience!
-<!---Yummy yummy there's cock in my tummy!--->
 
 This is the main marketing website for McCLUCKIN'. 
 It is designed to be responsive and accessible, making it easy to navigate for potential customers & partners.
@@ -35,24 +34,32 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
 -   ### Design
     -   #### Colour Scheme
         -   The two main colours used for McCLUCKIN' are red, and white. Red is associated with hunger so online viewers will feel hungry and more likely to order. 
+            [McCLUCKIN Colour Scheme Palette](assets/images/mccluckin-colour-scheme.png)
     -   #### Typography
-        -   The Verdana font is the main font used throughout the whole website as it is both attractive and clear to read.
+        -   The Verdana font is the main font used throughout the whole website as its simplicity is both attractive and clear to read.
+        -    Komika Title for the food prducts on Menu Page.
     -   #### Imagery
-        -   The large images of food is designed to be striking and catch the user's attention.
+        -   The large images of food is designed to be striking and catch the user's attention. The food in the images are photographed and posed in a way to be more appealing and bigger than its actual size, marketing tactics.
 
 *   ### Wireframes
 
     -   Home Page Wireframe - [View](https://github.com/)
 
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
-
 ## Features
 
--   Responsive on all device sizes
+There are five (5) pages, all of them are accessible via the navigation bar at the top as well as hyperlinks at the footer.
 
--   Interactive elements
+ -    Navigation bar: it's a simple bar that resides at the top of the screen therefore when the user scrolls down they won't need to fully scroll back up to navigate to other pages, it will always be available at the top of their screen.
+
+ -    Footer: here, there are several links to the pages as well as additional links to social media accounts for users to follow.
+
+-   Responsive on all device sizes.
+
+-   Official McCLUCKIN' merchandise, linked with Redbubble.
+
+-   Information on the Company and its products.
+
+-   Interactive elements.
 
 ## Technologies Used
 
@@ -80,12 +87,16 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
     - This website was used to create menu titles for the items available at McCLUCKIN', the chosen font is called Komika Title by Vigilante Typeface Corporation.
 1. [Am I Responsive?](http://ami.responsivedesign.is/#)
      - This website was used to create the preview image of the project on various devices.
+1. [Coolors](https://coolors.co/)
+     - This website was used to create the colour scheme used by the project.
+
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+     -   [General McCLUCKIN CSS Style](docs/css-validation-mccluck-css-style)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -106,7 +117,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+    1. As a Returning Visitor, I want to find the new products and campaigns.
 
         1. These are clearly shown in the banner message.
         2. They will be directed to a page with another hero image and call to action.
@@ -137,16 +148,21 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+
 -   A large amount of testing was done to ensure that all pages were linking correctly.
+
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-- Images not showing: from incorrecting pathway setting just using the name rather than assets/image/"name.jpg".
+-   Images not showing: from incorrecting pathway setting just using the name rather than assets/image/"name.jpg".
 
 ### Known Bugs
 
 -   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
     -   A white gap can be seen to the right of the footer and navigation bar as a result.
+
 -   On Microsoft Edge and Internet Explorer Browsers, all links in Navigation bar are pushed upwards when hovering over them.
+
+-    Slideshow's left & right button not responding but the slideshow will still transition at their own pace.
 
 ## Deployment
 
@@ -169,32 +185,6 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
-
-### Making a Local Clone
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. Under the repository name, click "Clone or download".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4. Open Git Bash
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
-
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-```
-
-7. Press Enter. Your local clone will be created.
-
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-```
-
-Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
 
