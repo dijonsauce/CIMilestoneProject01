@@ -34,7 +34,8 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
 -   ### Design
     -   #### Colour Scheme
         -   The two main colours used for McCLUCKIN' are red, and white. Red is associated with hunger so online viewers will feel hungry and more likely to order. 
-            (assets/images/mccluckin-colour-scheme.png)
+        [McCLUCKIN Colour Scheme Palette](assets/images/mccluckin-colour-scheme.png)
+
     -   #### Typography
         -   The Verdana font is the main font used throughout the whole website as its simplicity is both attractive and clear to read.
         -    Komika Title for the food prducts on Menu Page.
@@ -71,29 +72,34 @@ There are five (5) pages, all of them are accessible via the navigation bar at t
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [MediBang](https://medibangpaint.com/en/)
+1. [MediBang:](https://medibangpaint.com/en/)
     - MediBang was used to create the logo, resizing images and editing photos for the website.
-1. [FontGenerator](https://www.font-generator.com/fonts/KomikaTitle2/)
+1. [FontGenerator:](https://www.font-generator.com/fonts/KomikaTitle2/)
     - This website was used to create menu titles for the items available at McCLUCKIN', the chosen font is called Komika Title by Vigilante Typeface Corporation.
-1. [Am I Responsive?](http://ami.responsivedesign.is/#)
+1. [Am I Responsive?:](http://ami.responsivedesign.is/#)
      - This website was used to create the preview image of the project on various devices.
-1. [Coolors](https://coolors.co/)
+1. [Coolors:](https://coolors.co/)
      - This website was used to create the colour scheme used by the project.
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. 
+BeautifyTools was used to validate the JavaScript for slideshow.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-     -   [General McCLUCKIN CSS Style](assets/docs/css-validation-mccluck-css-style)
-     -   [Career Application CSS Style](assets/docs/css-validation-career-application-css-style)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+     -   [General McCLUCKIN CSS Style](assets/docs/css-validation-mccluck-css-style.png)
+     -   [Career Application CSS Style](assets/docs/css-validation-career-application-css-style.png)
+     -   [Merchandise Gallery CSS Style](assets/docs/css-validation-merch-gallery-css-style.png)
+
+-   [BeautifyTools](https://beautifytools.com/javascript-validator.php)
+     -  [Slideshow JS](assets/docs/js-validation-slideshow-js.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -161,6 +167,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -    Slideshow's left & right button not responding but the slideshow will still transition at their own pace.
 
+### Solved Bugs
+
+-    Navigation bar is now fixed to the top of the screen.
+
 ## Deployment
 
 ### GitHub Pages
@@ -194,8 +204,6 @@ Code modified to create a 3 image slideshow on Index page.
 Code modified to create a stationary navigation bar without further changes to the visuals.
 
 ### Content
-
--   All content was written by the developer.
 
 -   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
@@ -264,4 +272,4 @@ https://just-eat-prod-eu-res.cloudinary.com/image/upload/d_cms:wallpaper:fallbac
 
 ### Acknowledgements
 
--    Mentors at Code Institute for continuous helpful feedback.
+-    Mentors & Colleagues at Code Institute for assistance.
