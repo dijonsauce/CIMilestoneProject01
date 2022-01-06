@@ -75,15 +75,11 @@ There are five (5) pages, all of them are accessible via the navigation bar at t
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [MediBang](https://medibangpaint.com/en/)
     - MediBang was used to create the logo, resizing images and editing photos for the website.
-1. [FontGenerator](https://www.font-generator.com/fonts/KomikaTitle2/- Menu Font)
+1. [FontGenerator](https://www.font-generator.com/fonts/KomikaTitle2/)
     - This website was used to create menu titles for the items available at McCLUCKIN', the chosen font is called Komika Title by Vigilante Typeface Corporation.
 1. [Am I Responsive?](http://ami.responsivedesign.is/#)
      - This website was used to create the preview image of the project on various devices.
@@ -96,7 +92,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-     -   [General McCLUCKIN CSS Style](docs/css-validation-mccluck-css-style)
+     -   [General McCLUCKIN CSS Style](assets/docs/css-validation-mccluck-css-style)
+     -   [Career Application CSS Style](assets/docs/css-validation-career-application-css-style)
 
 ### Testing User Stories from User Experience (UX) Section
 
