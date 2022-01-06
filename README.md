@@ -34,7 +34,7 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
 -   ### Design
     -   #### Colour Scheme
         -   The two main colours used for McCLUCKIN' are red, and white. Red is associated with hunger so online viewers will feel hungry and more likely to order. 
-            [McCLUCKIN Colour Scheme Palette](assets/images/mccluckin-colour-scheme.png)
+            (assets/images/mccluckin-colour-scheme.png)
     -   #### Typography
         -   The Verdana font is the main font used throughout the whole website as its simplicity is both attractive and clear to read.
         -    Komika Title for the food prducts on Menu Page.
