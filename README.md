@@ -54,13 +54,13 @@ There are five (5) pages, all of them are accessible via the navigation bar at t
 
  -    Footer: here, there are several links to the pages as well as additional links to social media accounts for users to follow.
 
--   Responsive on all device sizes.
+ -   Responsive on all device sizes.
 
--   Official McCLUCKIN' merchandise, linked with Redbubble.
+ -   Official McCLUCKIN' merchandise, linked with Redbubble.
 
--   Information on the Company and its products.
+ -   Information on the Company and its products.
 
--   Interactive elements.
+ -   Interactive elements.
 
 ## Technologies Used
 
@@ -91,7 +91,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-
+    -    [index.html](assets/docs/html-validation-index-html.png)
+    -    [menu.html](assets/docs.html-validation-menu-html.png)
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
      -   [General McCLUCKIN CSS Style](assets/docs/css-validation-mccluck-css-style.png)
@@ -165,7 +166,7 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   On Microsoft Edge and Internet Explorer Browsers, all links in Navigation bar are pushed upwards when hovering over them.
 
--    Slideshow's left & right button not responding but the slideshow will still transition at their own pace.
+-   Slideshow in menu.html & index.html may show and then disappear,  just refresh and it will come back.
 
 ### Solved Bugs
 

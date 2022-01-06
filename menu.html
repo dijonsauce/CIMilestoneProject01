@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
  <head>
    <title>McCLUCKIN': If You Like It Then It Didn't Die In Vain!</title>
 
@@ -18,7 +18,7 @@
     <a href="about_us.html" target="_blank">ABOUT US</a>&nbsp;
     <a href="contact.html" target="_blank">CONTACT</a>&nbsp;
     </div>
-  </div>
+
 
 <!---Slideshow container-->
 <!--External code: This is from https://www.w3schools.com/howto/howto_js_slideshow.asp -->
@@ -26,24 +26,19 @@
   <!---Full-width images with number and caption text-->
       <div class="Slides fade">
       <div class="numbertext"></div>
-    <img src= "assets/images/slideshow2-box-sale.png" width=100%>
+    <img src= "assets/images/slideshow2-box-sale.png" alt="Boxsets Available" width=1200>
+    </div>
+  </div>
+  
+   <div class="Slides fade">
+     <div class="numbertext"></div>
+     <img src= "assets/images/slideshow2-cheetocake.png" alt="Cheetocake Promo" width=1200>
     </div>
   
    <div class="Slides fade">
      <div class="numbertext"></div>
-     <img src= "assets/images/slideshow2-cheetocake.png" width=100%>
-    </div>
-  
-   <div class="Slides fade">
-     <div class="numbertext"></div>
-     <img src= "assets/images/slideshow2-hot-wing-bucket.png" width=100%>
+     <img src= "assets/images/slideshow2-hot-wing-bucket.png"alt="Hot Wings Bucket Deal" width=1200>
    </div>
-  
-  <!-- Next and previous buttons -->
-   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-   <a class="next" onclick="plusSlides(1)">&#10095;</a>
-   </div>
-   <br>
   
   <!-- The marker dot on slideshow -->
   <div style="text-align:center">
@@ -53,65 +48,46 @@
     </div>
     
   <!-- Slideshow javascript -->
-    <script>
-      var slideIndex = 0;
-      showSlides();
-  
-      function showSlides() {
-       var i;
-       var slides = document.getElementsByClassName("Slides");
-       for (i = 0; i < slides.length; i++) {
-       slides[i].style.display = "none";
-       }
-       slideIndex++;
-       if (slideIndex > slides.length) {slideIndex = 1}
-       slides[slideIndex-1].style.display = "block";
-       setTimeout(showSlides, 7000); // Change image every 7 seconds
-      }
-    </script>  
+ <script src="assets/js/slideshow.js"></script>  
 
 <!--Text-->
 <center>
   <h1>SEE WHAT'S ON THE MENU</h1>
    <p>McCLUCKIN' is home to America's finest chicken, freshly made everyday! Check out our menu and sate your cravings!</p>
-</center>
 
 <!--Menu table-->
-<center>
  <t>
   <td>
-    <img src= "assets/images/menu-lil-clucker.png">
-    <img src= "assets/images/menu-mccluckin.png">
+    <img src= "assets/images/menu-lil-clucker.png" alt="Lil Clucker Meal">
+    <img src= "assets/images/menu-mccluckin.png" alt="McCluckin Meal">
   </td>
 
   <td>
-    <img src= "assets/images/menu-dixie-chicks.png">
-    <img src= "assets/images/menu-cock-a-two.png">
+    <img src= "assets/images/menu-dixie-chicks.png" alt="Dixie Chicks">
+    <img src= "assets/images/menu-cock-a-two.png" alt="Cock-A-Two">
   </td>
 
   <td>
-    <img src= "assets/images/menu-heartbreaker.png">
-    <img src= "assets/images/menu-cluckin-bell-box.png">
+    <img src= "assets/images/menu-heartbreaker.png" alt="The Heartbreaker">
+    <img src= "assets/images/menu-cluckin-bell-box.png" alt="Cluckin Bell Box">
   </td>
 
   <td>
-    <img src= "assets/images/menu-fowl-feast.png">
-    <img src= "assets/images/menu-fowlsome-feast.png">
+    <img src= "assets/images/menu-fowl-feast.png" alt="Fowl Feast">
+    <img src= "assets/images/menu-fowlsome-feast.png" alt="Fowlsome Feast">
   </td>
 
   <td>
-    <img src= "assets/images/menu-slamma.png">
-    <img src= "assets/images/menu-super-bowl.png">
+    <img src= "assets/images/menu-slamma.png" alt="Alabama Slamma">
+    <img src= "assets/images/menu-super-bowl.png" alt="Super Bowl">
   </td>
 
   <td>
-    <img src= "assets/images/menu-frooty-salad.png">
-    <img src= "assets/images/menu-grasstoucher.png">
+    <img src= "assets/images/menu-frooty-salad.png" alt="Frooty Salad">
+    <img src= "assets/images/menu-grasstoucher.png" alt="The Grasstoucher">
   </td>
  </t>
-</center>
 
-<center>
    <div class= "h2">
      OUR GUARANTEE </div>
      <p>We guarantee that our products are full of COCK to satisfy our hungriest of customers.</p>
@@ -139,7 +115,7 @@
   <table >
     <tr>
       <td><a href="menu.html" target="_blank">OUR MENU</a></td>
-      <td><a href="merchandise.html" target="_blank">CLUCK A MERCH</td>
+      <td><a href="merchandise.html" target="_blank">CLUCK A MERCH</a></td>
     </tr>
 
     <tr>
@@ -154,7 +130,7 @@
 
     <tr>
        <td><a href="contact.html" target="_blank">CONTACT & HELP</a></td>
-       <td><a href="contact.html"target="_blank">FIND A STORE</a></td>
+       <td><a href="contact.html" target="_blank">FIND A STORE</a></td>
     </tr>
   </table>
  </div>
