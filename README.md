@@ -29,13 +29,12 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
         3. As a Returning Visitor, I want to find community links.
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
         2. As a Frequent User, I want to check to see if there are any new posts.
         3. As a Frequent User, I want to follow on social media so I am notified of any major updates and/or changes to the website or organisation.
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used for McCLUCKIN' are red, and white. Red is associated with hunger so online viewers will feel hungry and more likely to order.
+        -   The two main colours used for McCLUCKIN' are red, and white. Red is associated with hunger so online viewers will feel hungry and more likely to order. 
     -   #### Typography
         -   The Verdana font is the main font used throughout the whole website as it is both attractive and clear to read.
     -   #### Imagery
@@ -79,9 +78,8 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
     - MediBang was used to create the logo, resizing images and editing photos for the website.
 1. [FontGenerator](https://www.font-generator.com/fonts/KomikaTitle2/- Menu Font)
     - This website was used to create menu titles for the items available at McCLUCKIN', the chosen font is called Komika Title by Vigilante Typeface Corporation.
-
-
-
+1. [Am I Responsive?](http://ami.responsivedesign.is/#)
+     - This website was used to create the preview image of the project on various devices.
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
@@ -105,7 +103,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
 
         1. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-
 
 -   #### Returning Visitor Goals
 
@@ -137,7 +134,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     3. As a Frequent User, I want to follow the brand on social media so that I am notified of any major updates and/or changes to the website or organisation.
         1. At the bottom of every page there is a footer which contains the social media links.
 
-
 ### Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
@@ -150,7 +146,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
     -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   On Microsoft Edge and Internet Explorer Browsers, all links in Navigation bar are pushed upwards when hovering over them.
 
 ## Deployment
 
@@ -218,7 +214,6 @@ Code modified to create a stationary navigation bar without further changes to t
 
 -   README templated from Code Institute [here] (https://github.com/Code-Institute-Solutions/SampleREADME)
 
-
 ### Inspiration
 
 -    KFC [here] (https://www.kfc.co.uk/): 
@@ -227,7 +222,7 @@ Index page takes inspiration from the Homepage such as the title and the mobile 
 -    Chick-Fil-A [here] (https://www.chick-fil-a.com/): 
 For the contact page content.
 
--     Cluckin Bell [here] (https://gta.fandom.com/wiki/CluckinBellHappyChicken.com#Legal_Disclaimer):
+-    Cluckin Bell [here] (https://gta.fandom.com/wiki/CluckinBellHappyChicken.com):
 The website no longer exists and the URL will redirect to the Rockstar Games' official websites but you can see that much of the text is heavily inspired  by the sarcastic ficitional brand.
 
 ### Media
@@ -262,8 +257,23 @@ https://www.ka-99.top/products.aspx?cname=kfc+family+box&cid=6
 -    KFC Singapore - 50% off 2pcs Chicken Box with any Box Meal (Weekdays only)
 https://www.youtube.com/watch?v=WZ48q6RQAkA
 
+-    KFC / Taste - Snack Pack
+https://www.taste.com.au/articles/kfc-reveals-another-new-secret-menu-item/szkbmfe3?nk=73a0a87fcfa37727031da64a8cf657d9-1640911261
 
+-    KFC - Popcorn Slab
+https://manofmany.com/lifestyle/food/kfc-popcorn-chicken-slab
 
+-    KFC - 4 Value Burgers
+https://www.frugalfeeds.com.au/2021/deal-kfc-2295-value-burger-box-on-fridays-saturdays-sundays/
+
+-    McDonald's - Salad Box
+https://www.pngegg.com/en/png-hactj
+
+-    McDonald's - Cheesecake Promo
+https://hype.my/wp-content/uploads/2020/01/CheeseCones_PromoPage_1200x628.jpg
+
+-    Just Eat - Salad
+https://just-eat-prod-eu-res.cloudinary.com/image/upload/d_cms:wallpaper:fallback_4.jpg/c_fill,g_auto,f_auto,q_auto,dpr_2.0/v1/uk/cuisine-icons/salads
 
 ### Acknowledgements
 
