@@ -7,7 +7,7 @@ Welcome to McCLUCKIN', America's fastest and finest dining experience!
 This is the main marketing website for McCLUCKIN'. 
 It is designed to be responsive and accessible, making it easy to navigate for potential customers & partners.
 
-Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chick-Fil-A and the fictional Clucking Bell in Grand Theft Auto: San Andreas.
+Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chick-Fil-A and the fictional Cluckin Bell in Grand Theft Auto: San Andreas.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
@@ -93,6 +93,9 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
     -    [index.html](assets/docs/html-validation-index-html.png)
     -    [menu.html](assets/docs.html-validation-menu-html.png)
+    -    [merchandise.html](assets/docs/html-validation-merchandise-html.png)
+    -    [about_us.html](assets/docs/html-validation-about-us-html.png)
+    -    [contact.html]
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
      -   [General McCLUCKIN CSS Style](assets/docs/css-validation-mccluck-css-style.png)
@@ -101,6 +104,8 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   [BeautifyTools](https://beautifytools.com/javascript-validator.php)
      -  [Slideshow JS](assets/docs/js-validation-slideshow-js.png)
+
+-   [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 ### Testing User Stories from User Experience (UX) Section
 
