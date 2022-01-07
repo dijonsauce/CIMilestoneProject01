@@ -5,9 +5,9 @@
 Welcome to McCLUCKIN', America's fastest and finest dining experience!
 
 This is the main marketing website for McCLUCKIN'. 
-It is designed to be responsive and accessible, making it easy to navigate for potential customers & partners.
+It is designed to be responsive and accessible, making it easy to navigate for potential customers & partners. 
 
-Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chick-Fil-A and the fictional Cluckin Bell in Grand Theft Auto: San Andreas.
+Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chick-Fil-A and the fictional Cluckin Bell in Grand Theft Auto: San Andreas.The Initial idea was to create a foundation for a Retail/E-commerce project that will connect from Frontend to Backend, the Fullstack during the course of the Software Development Course also as much as I like fast food, I loved the way Rockstar Game's Grand Theft Auto (GTA) portrayed fast food restaurants in the series so this project will not be as friendly as Wendy's Twitter account.
 
 <h2 align="center"><img src="assets/docs/rwd-preview.png"></h2>
 
@@ -56,23 +56,26 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
        There are five (5) pages, all of them are accessible via the navigation bar at the top as well as hyperlinks at the footer. It's a simple bar that resides at the top of the screen therefore when the user scrolls down they won't need to fully scroll back up to navigate to other pages, it will always be available at the top of their screen. At the bottom of the page, the footer is set up, there are several links to the pages as well as additional links to social media accounts for users to follow.
 
  -   #### Index Page
-      Slideshow
-      Official App
-
+      This is the frontpage that welcomes the users when they first arrive, it includes a slideshow that presents what is available in McCLUCKIN' which is alot of chicken products. There is a banner that leads to the Official Mobile App for users to use to receive offers and points however, the App has not been made therefore it will direct them to the Google Store instead.
+    
  -   #### Menu Page
+      The Menu Page hosts information and images on the current available items sold by McCLUCKIN'. They are designed to look similar to the ordering boards/screens within actual fast food restaurants. There is also a slideshow which shows the current campaign (limited edition products sold in selected stores).
 
  -   #### Careers Page
+      Through this Page, users who are interested in joining the company can submit their application as there is a form which enables them to upload their CV & resumes.
 
  -   #### Contact Page
-      The Contact Page allows users to see more about the Company and how to reach the Customer Service via mail (Location Address).
+      The Contact Page allows users to see more about the McCLUCKIN' Company and how to reach the Customer Service via mail (Location Address).
       Much of the paragraphs such as the "Legal Disclaimer" and "Our Promise To You" are from and/or inspired by the ficitional Cluckin Bell's website (linked in the Inspiration section).
 
  -   #### About Us Page
+      This Page is to include the information about the McCLUCKIN' Company, by allowing users to click on one of the 4 images which links to the information sections, the images are not actually hyperlinked to anything and are only made to look like it is.
 
  -   #### Merchandise Page
       This page contains images of the Official McCLUCKIN' merchandise such as T-shirts and stickers, by clicking on the images this connect the user to the Redbubble website where the merchandise can be purchased.
 
  -   #### Social Media
+     All pages include social media links in the form of icons at the bottom of the page, they connect the users to the company's official social accounts. No social accounts have been made for this project therefore the icons will direct the users to the frontpage of the respective social media platform.
 
 ## Technologies Used
 
@@ -288,10 +291,10 @@ https://hype.my/wp-content/uploads/2020/01/CheeseCones_PromoPage_1200x628.jpg
 https://just-eat-prod-eu-res.cloudinary.com/image/upload/d_cms:wallpaper:fallback_4.jpg/c_fill,g_auto,f_auto,q_auto,dpr_2.0/v1/uk/cuisine-icons/salads
 
 -     GTA / Adzan Fariq Darmawan - Cluckin' Bell TV Commercial
-https://www.youtube.com/watch?v=_5ghWKltHYg)
+https://www.youtube.com/watch?v=_5ghWKltHYg
 
 -     KFC - Photo of Colonel Sanders
-(https://www.kfc.com/about)
+https://www.kfc.com/about
 
 -      Vectorstock - Heart World Map
  https://www.vectorstock.com/royalty-free-vector/world-map-pattern-of-love-heart-icons-vector-20416314
