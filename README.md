@@ -1,6 +1,6 @@
 <h1 align="center">McCLUCKIN' Website</h1>
 
-[View the live project here.](https://https://dijonsauce.github.io/)
+[View the live project here.](https://dijonsauce.github.io/)
 
 Welcome to McCLUCKIN', America's fastest and finest dining experience!
 
@@ -9,7 +9,7 @@ It is designed to be responsive and accessible, making it easy to navigate for p
 
 Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chick-Fil-A and the fictional Cluckin Bell in Grand Theft Auto: San Andreas.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="assets/docs/rwd-preview.png"></h2>
 
 ## User Experience (UX)
 
@@ -44,23 +44,35 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](assets/docs/draft-index.png)
 
 ## Features
 
-There are five (5) pages, all of them are accessible via the navigation bar at the top as well as hyperlinks at the footer.
-
- -    Navigation bar: it's a simple bar that resides at the top of the screen therefore when the user scrolls down they won't need to fully scroll back up to navigate to other pages, it will always be available at the top of their screen.
-
- -    Footer: here, there are several links to the pages as well as additional links to social media accounts for users to follow.
-
  -   Responsive on all device sizes.
 
- -   Official McCLUCKIN' merchandise, linked with Redbubble.
-
- -   Information on the Company and its products.
-
  -   Interactive elements.
+
+ -    #### Navigation: 
+       There are five (5) pages, all of them are accessible via the navigation bar at the top as well as hyperlinks at the footer. It's a simple bar that resides at the top of the screen therefore when the user scrolls down they won't need to fully scroll back up to navigate to other pages, it will always be available at the top of their screen. At the bottom of the page, the footer is set up, there are several links to the pages as well as additional links to social media accounts for users to follow.
+
+ -   #### Index Page
+      Slideshow
+      Official App
+
+ -   #### Menu Page
+
+ -   #### Careers Page
+
+ -   #### Contact Page
+      The Contact Page allows users to see more about the Company and how to reach the Customer Service via mail (Location Address).
+      Much of the paragraphs such as the "Legal Disclaimer" and "Our Promise To You" are from and/or inspired by the ficitional Cluckin Bell's website (linked in the Inspiration section).
+
+ -   #### About Us Page
+
+ -   #### Merchandise Page
+      This page contains images of the Official McCLUCKIN' merchandise such as T-shirts and stickers, by clicking on the images this connect the user to the Redbubble website where the merchandise can be purchased.
+
+ -   #### Social Media
 
 ## Technologies Used
 
@@ -87,7 +99,7 @@ There are five (5) pages, all of them are accessible via the navigation bar at t
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. 
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no major syntax errors in the project. 
 BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   [W3C Markup Validator](https://validator.w3.org/)
@@ -105,8 +117,6 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   [BeautifyTools](https://beautifytools.com/javascript-validator.php)
      -  [Slideshow JS](assets/docs/js-validation-slideshow-js.png)
-
--   [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -161,7 +171,7 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+-   Friends and colleagues were invited to review the site and documentation to point out any bugs and/or user experience issues.
 
 -   Images not showing: from incorrecting pathway setting just using the name rather than assets/image/"name.jpg".
 
@@ -190,7 +200,7 @@ The project was deployed to GitHub Pages using the following steps...
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://dijonsauce.github.io) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
@@ -204,28 +214,28 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ### Code
 
--    W3 Schools [here] (https://www.w3schools.com/howto/howto_js_slideshow.asp):
+-    W3 Schools [here](https://www.w3schools.com/howto/howto_js_slideshow.asp):
 Code modified to create a 3 image slideshow on Index page.
 
--    Interneting is Hard [here] (https://www.internetingishard.com/html-and-css/advanced-positioning/): 
+-    Interneting is Hard [here](https://www.internetingishard.com/html-and-css/advanced-positioning/): 
 Code modified to create a stationary navigation bar without further changes to the visuals.
 
 ### Content
 
 -   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
--   README templated from Code Institute [here] (https://github.com/Code-Institute-Solutions/SampleREADME)
+-   README templated from Code Institute [here](https://github.com/Code-Institute-Solutions/SampleREADME)
 
 ### Inspiration
 
--    KFC [here] (https://www.kfc.co.uk/): 
+-    KFC [here](https://www.kfc.co.uk/): 
 Index page takes inspiration from the Homepage such as the title and the mobile app link.
 
--    Chick-Fil-A [here] (https://www.chick-fil-a.com/): 
+-    Chick-Fil-A [here](https://www.chick-fil-a.com/): 
 For the contact page content.
 
--    Cluckin Bell [here] (https://gta.fandom.com/wiki/CluckinBellHappyChicken.com):
-The website no longer exists and the URL will redirect to the Rockstar Games' official websites but you can see that much of the text is heavily inspired  by the sarcastic ficitional brand.
+-    Cluckin Bell [here](https://gta.fandom.com/wiki/CluckinBellHappyChicken.com):
+The website no longer exists and the URL will redirect to the Rockstar Games' official websites but you can see that much of the text is heavily inspired by the sarcastic ficitional brand.
 
 ### Media
 
@@ -276,6 +286,15 @@ https://hype.my/wp-content/uploads/2020/01/CheeseCones_PromoPage_1200x628.jpg
 
 -    Just Eat - Salad
 https://just-eat-prod-eu-res.cloudinary.com/image/upload/d_cms:wallpaper:fallback_4.jpg/c_fill,g_auto,f_auto,q_auto,dpr_2.0/v1/uk/cuisine-icons/salads
+
+-     GTA / Adzan Fariq Darmawan - Cluckin' Bell TV Commercial
+https://www.youtube.com/watch?v=_5ghWKltHYg)
+
+-     KFC - Photo of Colonel Sanders
+(https://www.kfc.com/about)
+
+-      Vectorstock - Heart World Map
+ https://www.vectorstock.com/royalty-free-vector/world-map-pattern-of-love-heart-icons-vector-20416314
 
 ### Acknowledgements
 
