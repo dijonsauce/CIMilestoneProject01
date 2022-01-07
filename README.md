@@ -90,12 +90,13 @@ There are five (5) pages, all of them are accessible via the navigation bar at t
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. 
 BeautifyTools was used to validate the JavaScript for slideshow.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+-   [W3C Markup Validator](https://validator.w3.org/)
     -    [index.html](assets/docs/html-validation-index-html.png)
     -    [menu.html](assets/docs.html-validation-menu-html.png)
     -    [merchandise.html](assets/docs/html-validation-merchandise-html.png)
     -    [about_us.html](assets/docs/html-validation-about-us-html.png)
-    -    [contact.html]
+    -    [contact.html](assets/docs/html-validation-contact-html)
+    -    [careers.html](assets/docs/html-validation-careers-html)
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
      -   [General McCLUCKIN CSS Style](assets/docs/css-validation-mccluck-css-style.png)
