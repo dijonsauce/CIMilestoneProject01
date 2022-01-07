@@ -1,6 +1,6 @@
 <h1 align="center">McCLUCKIN' Website</h1>
 
-[View the live project here.](https://codeinstitute.net)<!---change-->
+[View the live project here.](https://https://dijonsauce.github.io/)
 
 Welcome to McCLUCKIN', America's fastest and finest dining experience!
 
