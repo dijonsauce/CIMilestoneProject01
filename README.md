@@ -99,6 +99,11 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
      - This website was used to create the preview image of the project on various devices.
 1. [Coolors:](https://coolors.co/)
      - This website was used to create the colour scheme used by the project.
+1. [jQuery:](https://jquery.com/)
+
+1. [Bootstrap](https://getbootstrap.com/)
+
+  </head>
 
 ## Testing
 
@@ -120,6 +125,8 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   [BeautifyTools](https://beautifytools.com/javascript-validator.php)
      -  [Slideshow JS](assets/docs/js-validation-slideshow-js.png)
+
+-   [Prettier.io](https://prettier.io/)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -187,6 +194,9 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   Slideshow in menu.html & index.html may show and then disappear,  just refresh and it will come back.
 
+-   The assets/images/slideshow2-box-sale.png appears stretched.
+
+
 ### Solved Bugs
 
 -    Navigation bar is now fixed to the top of the screen.
@@ -225,9 +235,9 @@ Code modified to create a stationary navigation bar without further changes to t
 
 ### Content
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+-   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours).
 
--   README templated from Code Institute [here](https://github.com/Code-Institute-Solutions/SampleREADME)
+-   README templated from Code Institute [here](https://github.com/Code-Institute-Solutions/SampleREADME).
 
 ### Inspiration
 
@@ -290,13 +300,13 @@ https://hype.my/wp-content/uploads/2020/01/CheeseCones_PromoPage_1200x628.jpg
 -    Just Eat - Salad
 https://just-eat-prod-eu-res.cloudinary.com/image/upload/d_cms:wallpaper:fallback_4.jpg/c_fill,g_auto,f_auto,q_auto,dpr_2.0/v1/uk/cuisine-icons/salads
 
--     GTA / Adzan Fariq Darmawan - Cluckin' Bell TV Commercial
+-    GTA / Adzan Fariq Darmawan - Cluckin' Bell TV Commercial
 https://www.youtube.com/watch?v=_5ghWKltHYg
 
--     KFC - Photo of Colonel Sanders
+-    KFC - Photo of Colonel Sanders
 https://www.kfc.com/about
 
--      Vectorstock - Heart World Map
+-    Vectorstock - Heart World Map
  https://www.vectorstock.com/royalty-free-vector/world-map-pattern-of-love-heart-icons-vector-20416314
 
 ### Acknowledgements
