@@ -21,11 +21,15 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
+        (assets/images/user-stories-pics/home-screen.png)
+
     -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to find information about McCLUCKIN' products.
         2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
         3. As a Returning Visitor, I want to find community links.
+
+        (assets/images/user-stories-pics/menu-screen.png)
 
     -   #### Frequent User Goals
         2. As a Frequent User, I want to check to see if there are any new posts.
