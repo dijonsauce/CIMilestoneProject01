@@ -1,0 +1,48 @@
+form{
+    color:black;
+    font-family: Verdana;
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+}
+
+* {box-sizing: border-box}
+
+/* padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* text input fields */
+input[type=text], input[type=text] {
+    width: 25%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+  /* list input fields */
+input[list=country], input[list=country] {
+    width: 50%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    width: 25%;
+}
+
+/* style for submit button */
+.submitbtn {
+  background-color: lightseagreen;
+  color: white;
+  font-size:medium;
+  padding: 10px 15px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  opacity: 0.9;
+}

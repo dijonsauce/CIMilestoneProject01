@@ -34,7 +34,7 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
 -   ### Design
     -   #### Colour Scheme
         -   The two main colours used for McCLUCKIN' are red, and white. Red is associated with hunger so online viewers will feel hungry and more likely to order. 
-        [McCLUCKIN Colour Scheme Palette](assets/images/mccluckin-colour-scheme.png)
+        [McCLUCKIN Colour Scheme Palette.](assets/images/mccluckin-colour-scheme.png)
 
     -   #### Typography
         -   The Verdana font is the main font used throughout the whole website as its simplicity is both attractive and clear to read.
@@ -102,8 +102,6 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
 1. [jQuery:](https://jquery.com/)
 
 1. [Bootstrap](https://getbootstrap.com/)
-
-  </head>
 
 ## Testing
 
@@ -248,7 +246,7 @@ Index page takes inspiration from the Homepage such as the title and the mobile 
 For the contact page content.
 
 -    Cluckin Bell [here](https://gta.fandom.com/wiki/CluckinBellHappyChicken.com):
-The website no longer exists and the URL will redirect to the Rockstar Games' official websites but you can see that much of the text is heavily inspired by the sarcastic ficitional brand.
+The website no longer exists and the URL will redirect to the Rockstar Games' official websites but you can see that much of the text is heavily inspired by the sarcastic fictional brand.
 
 ### Media
 
