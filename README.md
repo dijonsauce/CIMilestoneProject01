@@ -137,7 +137,7 @@ BeautifyTools was used to validate the JavaScript for slideshow.
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
         1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice.
-        2. The main points are made immediately with the hero image
+        2. The main points are made immediately with the hero image.
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
@@ -172,10 +172,12 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
         1. The user would already be comfortable with the website layout and can easily click the banner message.
 
-    2. As a Frequent User, I want to check to see if there are any new posts and events.
+    2. As a Frequent User, I want to check to see if there are any new posts and events regarding the restaurant.
 
     3. As a Frequent User, I want to follow the brand on social media so that I am notified of any major updates and/or changes to the website or organisation.
         1. At the bottom of every page there is a footer which contains the social media links.
+    
+    4. As a Freuent User, I want to bbe able to enjkoy the reference to Gaming & Pop Culture references on the website.
 
 ### Testing
 
@@ -194,7 +196,7 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   On Microsoft Edge and Internet Explorer Browsers, all links in Navigation bar are pushed upwards when hovering over them.
 
--   Slideshow in menu.html & index.html may show and then disappear,  just refresh and it will come back.
+-   Slideshow in menu.html & index.html may show and then disappear, just refresh and it will come back.
 
 -   The assets/images/slideshow2-box-sale.png appears stretched.
 
