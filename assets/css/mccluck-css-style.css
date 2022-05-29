@@ -1,24 +1,35 @@
-body {
+  body {
     background-color: white;
   }
 
-  .header-container {
-    /*Block*/
-    width: 100%;
-    border: #d11919;
+  .topnav {
+    overflow: hidden;
     background-color: #d11919;
-    /*Text*/
+  }
+  
+  .topnav a {
+    float: left;
     color: white;
     font-family: Verdana;
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 25px;
     text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    word-wrap: normal;
-    /*Fixed (as in still) navigation bar*/
-    top: 0;
-    z-index: 100;
-    position: fixed;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: white;
+    font-family: Verdana;
+    font-size: 25px;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: black;
+    font-family: Verdana;
+    font-size: 25px;
+    color: white;
   }
 
   h1 {
@@ -49,6 +60,25 @@ body {
     color: black;
     font-weight: bold;
   }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  section {
+    font-family: Verdana;
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+  }
+
+  article {
+    font-family: Verdana;
+    font-size: 16px;
+    color: black;
+    align-self: center;
+  }
   
   /*Link*/
   a {
@@ -57,7 +87,7 @@ body {
 
   .index-text{
     font-family: Verdana;
-    font-size: 18px;
+    font-size: 16px;
     color: black;
     text-align: left;
     text-decoration: none;
