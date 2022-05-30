@@ -140,6 +140,27 @@ td {
   color: white;
 }
 
+/*Merch Gallery from W3 School*/
+.gallery {
+  margin: 1px;
+  border: 1px solid #ccc;
+  width: auto;
+}
+
+gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 5px;
+  text-align: center;
+}
+
 /*SLIDESHOW*/
 * {box-sizing:border-box}
 
