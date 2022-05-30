@@ -69,6 +69,16 @@
     height: auto;
   }
   
+  .img-fluid {
+    align-content: center;
+    align-self: center;
+  }
+ 
+  .menu-center {
+    background-color: #d11919;
+    padding: 5px;
+  }
+
   section {
     font-family: Verdana;
     font-size: 24px;
@@ -108,20 +118,21 @@
 /*Table*/
 table {
   align-self: center;
+  padding: 5px;
 }
 
 tr {
   align-self: center;
   font-family: Verdana;
   font-size: 16px;
-  color: black;
+  color: white;
 }
 
 td {
   align-self: center;
   font-family: Verdana;
   font-size: 16px;
-  color: black;
+  color: white;
 }
 
 /*SLIDESHOW*/
@@ -220,7 +231,8 @@ td {
   font-family: Verdana;
   font-size: 10px;
   text-align: left;
-  color: black;
+  color: white;
+  background-color: #d11919;
 }
 
 .footer-text {
@@ -228,12 +240,4 @@ td {
   font-size: 12px;
   color: black;
   text-align: center;
-}
-
-table {
-  font-family: Verdana;
-  font-size: 12px;
-  color: black;
-  text-align: left;
-  text-decoration: unset;
 }
