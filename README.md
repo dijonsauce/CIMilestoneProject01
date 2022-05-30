@@ -21,15 +21,11 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
-        <!--[McCLUCKIN Home Screen.](assets/images/user-stories-pics/home-screen.png)-->
-
     -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to find information about McCLUCKIN' products.
         2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
         3. As a Returning Visitor, I want to find community links.
-
-       <!--[McCLUCKIN Menu Screen.](assets/images/user-stories-pics/menu-screen.png)-->
 
     -   #### Frequent User Goals
         2. As a Frequent User, I want to check to see if there are any new posts.
@@ -37,7 +33,8 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used for McCLUCKIN' are red, and white. Red is associated with hunger so online viewers will feel hungry and more likely to order. 
+        -   The two main colours used for McCLUCKIN' are red, and white. 
+        -   Red is associated with hunger so online viewers will feel hungry and more likely to order. 
         [McCLUCKIN Colour Scheme Palette.](assets/images/mccluckin-colour-scheme.png)
 
     -   #### Typography
@@ -46,9 +43,10 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
     -   #### Imagery
         -   The large images of food is designed to be striking and catch the user's attention. The food in the images are photographed and posed in a way to be more appealing and bigger than its actual size, marketing tactics.
 
-*   ### Wireframes
+*   ### Wireframe
 
-    -   Home Page Wireframe - [View](assets/docs/draft-index.png)
+    -   Basis of all pages follow this design.  
+    -   [View](assets/docs/draft-index.png)
 
 ## Features
 
@@ -103,8 +101,6 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
      - This website was used to create the preview image of the project on various devices.
 1. [Coolors:](https://coolors.co/)
      - This website was used to create the colour scheme used by the project.
-<!--1. [jQuery:](https://jquery.com/)
-1. [Bootstrap](https://getbootstrap.com/)-->
 
 ## Testing
 
