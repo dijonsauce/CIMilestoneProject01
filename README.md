@@ -195,10 +195,20 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   The assets/images/slideshow2-box-sale.png appears stretched.
 
+-   Menu images always aligning to the left.
+
+-   Slideshow extends past the rest of the page.
+
 
 ### Solved Bugs
 
 -    Navigation bar is now fixed to the top of the screen.
+
+-    Menu images align to the centre.
+
+-    Image scaling with the device screen size.
+
+-    Slideshow images all reduced to same size to prevent changing sizes.
 
 ## Deployment
 
