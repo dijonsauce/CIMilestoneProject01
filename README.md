@@ -58,33 +58,33 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
  -   #### Index Page
       This is the frontpage that welcomes the users when they first arrive, it includes a slideshow that presents what is available in McCLUCKIN' which is alot of chicken products. There is a banner that leads to the Official Mobile App for users to use to receive offers and points however, the App has not been made therefore it will direct them to the Google Store instead.
 
-    [View](assets/docs/user-stories/user-stories-mc-index.png)
+    - [View](assets/docs/user-stories/user-stories-mc-index.png)
     
  -   #### Menu Page
       The Menu Page hosts information and images on the current available items sold by McCLUCKIN'. They are designed to look similar to the ordering boards/screens within actual fast food restaurants. There is also a slideshow which shows the current campaign (limited edition products sold in selected stores).
     
-    [View](assets/docs/user-stories/user-stories-mc-menu.png)
+    - [View](assets/docs/user-stories/user-stories-mc-menu.png)
 
  -   #### Careers Page
       Through this Page, users who are interested in joining the company can submit their application as there is a form which enables them to upload their CV & resumes.
     
-    [View](assets/docs/user-stories/user-stories-mc-careers.png)
+    - [View](assets/docs/user-stories/user-stories-mc-careers.png)
 
  -   #### Contact Page
       The Contact Page allows users to see more about the McCLUCKIN' Company and how to reach the Customer Service via mail (Location Address).
       Much of the paragraphs such as the "Legal Disclaimer" and "Our Promise To You" are from and/or inspired by the ficitional Cluckin Bell's website (linked in the Inspiration section).
 
-    [View](assets/docs/user-stories/user-stories-mc-contact.png)
+    - [View](assets/docs/user-stories/user-stories-mc-contact.png)
 
  -   #### About Us Page
       This Page is to include the information about the McCLUCKIN' Company, by allowing users to click on one of the images which links to the information sections, the images are not actually hyperlinked to anything and are only made to look like it is.
 
-    [View](assets/docs/user-stories/user-stories-mc-about.png)
+    - [View](assets/docs/user-stories/user-stories-mc-about.png)
 
  -   #### Merchandise Page
       This page contains images of the Official McCLUCKIN' merchandise such as T-shirts and stickers, by clicking on the images this connect the user to the Redbubble website where the merchandise can be purchased.
 
-    [View](assets/docs/user-stories/user-stories-mc-merchandise.png)
+    - [View](assets/docs/user-stories/user-stories-mc-merchandise.png)
 
  -   #### Social Media
      All pages include social media links in the form of icons at the bottom of the page, they connect the users to the company's official social accounts. No social accounts have been made for this project therefore the icons will direct the users to the frontpage of the respective social media platform.
@@ -142,6 +142,7 @@ Prettier.io helped format the HTML &  Lighthouse was used for improving the qual
     -    [careers.html](assets/docs/html-prettier-mc-careers-html.png)
 
 -   [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+    These are in PDF format and must be downloaded to view.
     -    [index.html](assets/docs/mc-lighthouse/lighthouse-mc-index.pdf)
     -    [menu.html](assets/docs/mc-lighthouse/lighthouse-mc-menu.pdf)
     -    [merchandise.html](assets/docs/mc-lighthouse/lighthouse-mc-merchandise.pdf)
